@@ -1,4 +1,3 @@
 package com.example.swagapp.model
 
-class product {
-}
+class Product (val title:String, val price:String,val image:String )
