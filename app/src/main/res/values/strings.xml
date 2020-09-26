@@ -3,4 +3,6 @@
     <string name="hats">HATS</string>
     <string name="catogories">Catogories</string>
     <string name="products">Products</string>
+    <string name="todo">TODO</string>
+
 </resources>
